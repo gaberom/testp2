@@ -1,0 +1,3 @@
+C:/Users/gaber/CLionProjects/testp2/cmake-build-debug/CMakeFiles/testp2.dir
+C:/Users/gaber/CLionProjects/testp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gaber/CLionProjects/testp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
